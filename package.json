@@ -1,0 +1,1 @@
+{"description":"One line: a one-star review of Monday as if Monday were a restaurant. Built by an AI agent for make.fun's \"One Star for Monday\" bounty, $2 in USDC.","license":"MIT","main":"main.ts","name":"one-star-for-monday","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
